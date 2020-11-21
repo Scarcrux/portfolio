@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2390a927.chunk.css",
+    "main.js": "/portfolio/static/js/main.ddca01f2.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ddca01f2.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.86a05020.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.86a05020.js.map",
+    "static/css/2.d2ca2446.chunk.css": "/portfolio/static/css/2.d2ca2446.chunk.css",
+    "static/js/2.ed9f26ff.chunk.js": "/portfolio/static/js/2.ed9f26ff.chunk.js",
+    "static/js/2.ed9f26ff.chunk.js.map": "/portfolio/static/js/2.ed9f26ff.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.88b31fc4c0d8c3aa229125de665a8792.js": "/portfolio/precache-manifest.88b31fc4c0d8c3aa229125de665a8792.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.d2ca2446.chunk.css.map": "/portfolio/static/css/2.d2ca2446.chunk.css.map",
+    "static/css/main.2390a927.chunk.css.map": "/portfolio/static/css/main.2390a927.chunk.css.map",
+    "static/media/2-Man-holds-the-program-code.jpg": "/portfolio/static/media/2-Man-holds-the-program-code.4289b3b9.jpg",
+    "static/media/backend.svg": "/portfolio/static/media/backend.00c47a20.svg",
+    "static/media/frontend.svg": "/portfolio/static/media/frontend.3dc9edbb.svg",
+    "static/media/git.svg": "/portfolio/static/media/git.c31b5069.svg",
+    "static/media/style.css": "/portfolio/static/media/matrix.d1a5a2f9.jpg",
+    "static/media/xp.svg": "/portfolio/static/media/xp.3dc9edbb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86a05020.js",
+    "static/css/2.d2ca2446.chunk.css",
+    "static/js/2.ed9f26ff.chunk.js",
+    "static/css/main.2390a927.chunk.css",
+    "static/js/main.ddca01f2.chunk.js"
+  ]
+}

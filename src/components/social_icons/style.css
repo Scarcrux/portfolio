@@ -1,0 +1,39 @@
+.social-icons{
+    text-align: center;
+  }
+
+  .codepen{
+    margin: 2%;
+    color: white;
+  }
+
+  .codepen:hover{
+    color: #386ddd;
+  }
+
+  .git{
+    margin: 2%;
+    color: white;
+  }
+
+  .git:hover{
+    color: #16fa01;
+  }
+
+  .twitter{
+    margin: 2%;
+    color: white;
+  }
+
+  .twitter:hover{
+    color: #00acee;
+  }
+
+  .linkedin{
+    margin: 2%;
+    color: white;
+  }
+
+  .linkedin:hover{
+    color: #0e76a8;
+  }

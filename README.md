@@ -1,6 +1,6 @@
-##Jonathan Scarpelli's Portfolio##
+## Jonathan Scarpelli's Portfolio ##
 
-Live preview : Pending
+Live preview : https://jonathanscarpelli.com
 
 Technologies used : ReactJS, EmailJS, ParticleJS, Bootstrap
 

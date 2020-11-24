@@ -13,11 +13,11 @@ class Loading extends Component {
 
   componentDidMount() {
      this.id = setTimeout(() => this.setState({ redirect: true }), 3000);
-    //--Motasim Foads Portfolio website Google analytics--
+    //--Portfolio website Google analytics--
     //--Replace with your own key !!
     //ReactGA.initialize("UA-154721739-1");
     ReactGA.pageview('jonathanscarpelli.com - Loading Screen');
-    //--Motasim Foads Portfolio website Google analytics--
+    //--Portfolio website Google analytics--
   }
 
   componentWillUnmount() {
@@ -30,7 +30,7 @@ class Loading extends Component {
       : <div>
          <Helmet>
                 <meta charSet="utf-8" />
-                <title>Motasim Foad</title>
+                <title>Jonathan Scarpelli</title>
                 <link rel="canonical" href="http://jonathanscarpelli.com/" />
                 <meta name="description" content="Jonathan Scarpelli - Software Engineer" />
          </Helmet>

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.66b8f42f.chunk.css",
+    "main.css": "/static/css/main.612a54e2.chunk.css",
     "main.js": "/static/js/main.5ab2d92a.chunk.js",
     "main.js.map": "/static/js/main.5ab2d92a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8896086d.js",
@@ -9,10 +9,10 @@
     "static/js/2.ed9f26ff.chunk.js": "/static/js/2.ed9f26ff.chunk.js",
     "static/js/2.ed9f26ff.chunk.js.map": "/static/js/2.ed9f26ff.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ce6a5f1cde3bdcafe681258036c7b744.js": "/precache-manifest.ce6a5f1cde3bdcafe681258036c7b744.js",
+    "precache-manifest.8a7341e53d0ac2f8bce8248096784269.js": "/precache-manifest.8a7341e53d0ac2f8bce8248096784269.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d2ca2446.chunk.css.map": "/static/css/2.d2ca2446.chunk.css.map",
-    "static/css/main.66b8f42f.chunk.css.map": "/static/css/main.66b8f42f.chunk.css.map",
+    "static/css/main.612a54e2.chunk.css.map": "/static/css/main.612a54e2.chunk.css.map",
     "static/media/2-Man-holds-the-program-code.jpg": "/static/media/2-Man-holds-the-program-code.4289b3b9.jpg",
     "static/media/backend.svg": "/static/media/backend.00c47a20.svg",
     "static/media/frontend.svg": "/static/media/frontend.3dc9edbb.svg",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.8896086d.js",
     "static/css/2.d2ca2446.chunk.css",
     "static/js/2.ed9f26ff.chunk.js",
-    "static/css/main.66b8f42f.chunk.css",
+    "static/css/main.612a54e2.chunk.css",
     "static/js/main.5ab2d92a.chunk.js"
   ]
 }

@@ -12,13 +12,14 @@ import SocialIcons from '../social_icons';
 function Home_Right() {
   return (
     <Container className="home-right">
-      <Row className="home-right-main">
-        <Col xl={12}>
+      <Row  className="home-right-main">
+        <Col xs={12} className="d-flex justify-content-center align-items-center">
           <br />
-          <Image src={Foad} className="home-right-main-img" alt="Avatar Holding Code"/>
+          <Image src={Foad} className="home-right-main-img" alt="Avatar Holding Code" style={{width:"500px"}}/>
         </Col>
         <Row className="home-right-footer" >
-          <SocialIcons />
+          <Col xs={12}><SocialIcons />
+          </Col>
         </Row>
       </Row>
     </Container>

@@ -45,7 +45,7 @@ class CLC extends Component {
           <div className="clc_main">
           <div className="clc_container">
             <Fade top cascade>
-            <section><h1 className="clc_header">I got my start in web design and development from creating and maintaining gaming fan sites as a kid. Since then, I've become interested in all aspects of software engineering. The programming languages I'm focusing on mastering are JavaScript, Java and Python.</h1></section>
+            <h1 className="clc_header">About Jonathan Scarpelli</h1>
             </Fade>
               <ColoredLine color="#FFC466" />
               <Fade top cascade>

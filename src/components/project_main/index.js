@@ -9,6 +9,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faImages, faLink} from '@fortawesome/free-solid-svg-icons';
 import info from '../../const/project_info.json';
 import Lightbox from 'react-image-lightbox';
+import { faGithubSquare } from '@fortawesome/free-brands-svg-icons';
 
 console.log(info.data);
 
@@ -26,10 +27,10 @@ export default class PM extends Component {
     const { photoIndex, isOpen, image } = this.state;
 
     return (
-      <Row xl={12} className="main_row">
+      <Row xl={11} className="main_row d-flex justify-content-center align-items-center">
 
       {info.data.map(item => (
-        <Col xl={6}  key={item.id} className="card_col">
+        <Col xl={5}  key={item.id} className="card_col">
         <Card className="card_main">
           <blockquote className="blockquote mb-0 card-body">
             <h2>
@@ -40,10 +41,15 @@ export default class PM extends Component {
             </footer>
           </blockquote>
           <Card.Body>
-          <FontAwesomeIcon onClick={() => this.setState({ isOpen: true, image:item.image })} className="icon" size="lg" icon={faImages} /> &nbsp;&nbsp;
+          {item.image[0] && <FontAwesomeIcon onClick={() => this.setState({ isOpen: true, image:item.image })} className="icon" size="lg" icon={faImages} /> }&nbsp;&nbsp;
           {
             item.link !== false  &&
               <Card.Link href={item.link} target="_blank"><FontAwesomeIcon className="icon" size="lg" icon={faLink}/></Card.Link>
+          }
+          &nbsp;
+          {
+            item.git !== false  &&
+              <Card.Link href={item.git} target="_blank"><FontAwesomeIcon className="icon" size="lg" icon={faGithubSquare}/></Card.Link>
           }
         </Card.Body>
         </Card>

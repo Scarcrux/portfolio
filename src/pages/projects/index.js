@@ -13,7 +13,7 @@ class Projects extends Component {
 
   render() {
     return (
-        <Container className="About-header" fluid={true}>
+        <Container className="About-header" fluid>
           <Helmet>
                 <meta charSet="utf-8" />
                 <title>Project | Jonathan Scarpelli</title>

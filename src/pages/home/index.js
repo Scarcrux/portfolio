@@ -14,13 +14,13 @@ import particles from '../../const/particle.js';
 import ReactGa from 'react-ga';
 import {Helmet} from 'react-helmet';
 
-//--Portfolio website Google analytics--
+//--Motasim Foads Portfolio website Google analytics--
 //--Replace with your own key !!
 function Analytics(){
   //ReactGa.initialize("UA-154721739-1")
   ReactGa.pageview('jonathanscarpelli.com - Home Screen')
 }
-//--Portfolio website Google analytics--
+//--Motasim Foads Portfolio website Google analytics--
 
 function Home() {
   Analytics()
@@ -37,7 +37,7 @@ function Home() {
             params={particles}
             className="particle"
             />
-          <Container className="App-header" fluid={true}>
+          <Container className="App-header" fluid>
             <Row className="App-main">
               <Col  xl={7}  className="App-left">
                 <HomeLeft />

@@ -2,31 +2,54 @@
     "data": [
       {
         "id" : 0,
-        "name": "Scarpelli Academy of JavaScript",
-        "tools": "React, Redux and Sequelize",
-        "link": "https://github.com/Scarcrux/campus_management_project",
+        "name": "New York Food Bank",
+        "tools": "React, Redux, Flask, SQLite, Bootstrap",
+        "link": "https://newyorkfoodbank.netlify.app/",
+        "git": "https://github.com/yuyingsu/NewYorkFoodBank",
         "image": [
             ""
         ]
       },
       {
         "id" : 1,
-        "name": "STAR - University Backend Project",
-        "tools": "JSTL, JSP, SQL",
-        "link": "https://www.star.hawaii.edu/studentinterface/",
+        "name": "Gamer.com",
+        "tools": "React, Redux, Express, NoSQL, Bootstrap",
+        "link": "https://gamerdotcom.netlify.app/",
+        "git": "https://github.com/Scarcrux/TTP-Capstone-Frontend/",
+        "image": [
+            ""
+        ]
+      },
+            {
+        "id" : 2,
+        "name": "Campus Manager",
+        "tools": "React, Redux, Express, PostgreSQL, Sequelize, Bootstrap",
+        "link": "https://ttp-crud-frontend.herokuapp.com/",
+        "git": "https://github.com/Scarcrux/TTP-CRUD-Frontend/",
         "image": [
             ""
         ]
       },
       {
-        "id" : 2,
+        "id" : 3,
+        "name": "STAR - University Backend Project",
+        "tools": "JSTL, JSP, SQL",
+        "link": "https://www.star.hawaii.edu/studentinterface/",
+        "image": [
+            ""
+        ],
+        "git": false
+      },
+      {
+        "id" : 4,
         "name": "Pirates",
         "tools": "WordPress",
         "link": "https://www.worstguild.com/",
         "image": [
             ""
 
-        ]
+        ],
+        "git": false
       }
 
     ]

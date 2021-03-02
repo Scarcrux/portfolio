@@ -10,7 +10,7 @@ import CRI from '../cv_img';
 function CV() {
   return (
       <Row style={{height:'100%', width:'100%'}}>
-        <Col xl={12} >
+        <Col xl={12}>
          < CLC />
         </Col>
         <Col xl={12}>
